@@ -1,0 +1,38 @@
+h1{text-align: center; font-family:Impact; color: black;}
+body {background-color: rgb(182,165,173); font-family: sans-serif; color: pink;
+.picture {
+margin: auto;
+display: block;
+height: 450px;
+width: 650px;
+
+}
+background-image:
+url(https://images.pexels.com/photos/585750/pexels-photo-585750.jpeg?cs=srgb&dl=caffeine-coffee-coffee-beans-585750.jpg&fm=jpg);
+background-repeat:no-repeat;
+background-size: cover;
+a:hover {
+color: brown;
+}
+h2 {
+font-size: 40px;
+}
+h3 {
+font-size: 40px;
+}
+h4 {
+font-size: 40px;
+}
+h5 {
+font-size: 40px;
+}
+.float-left{
+position: fixed 0px 0px;
+float: left;
+width: 400px;
+height: auto;
+}
+.title-section{
+padding-right: 450px;
+padding-left: 450px;
+}
