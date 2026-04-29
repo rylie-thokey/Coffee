@@ -37,3 +37,6 @@ height: auto;
 padding-right: 450px;
 padding-left: 450px;
 }
+ul {
+  color: grey;
+}
