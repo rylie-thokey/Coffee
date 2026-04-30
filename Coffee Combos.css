@@ -43,3 +43,7 @@ padding-left: 450px;
 ul {
   color: black;
 }
+hr {
+  height: 2px;
+  border-color: pink;
+}
