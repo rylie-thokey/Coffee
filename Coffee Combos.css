@@ -44,6 +44,7 @@ ul {
   color: black;
 }
 hr {
-  height: 4px;
-  border-color: pink;
+  height: 10px;
+  background-color: pink;
+  border-color: black;
 }
