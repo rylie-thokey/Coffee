@@ -54,4 +54,7 @@ hr {
   width: 400px;
   height: auto;
   }
-
+h6 {
+  font-style: italic;
+  font-size: 40px;
+}
